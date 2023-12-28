@@ -240,3 +240,13 @@ Google Maps API for real-time location tracking.
 ### Authentication: 
 
 Secure login system for Admin and User access using Northeastern credentials.
+
+## Login Credentials:
+
+### Admin Login
+- Username: admin@northeastern.edu
+- Password: admin
+
+### User Login
+- Username: user@northeastern.edu
+- Password: user
