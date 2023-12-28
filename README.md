@@ -2,23 +2,23 @@
 
 EventShare is a web application designed to streamline event management and discovery within Northeastern University. This platform allows users to explore, share, and engage with various events on campus. Whether you're a student, faculty member, or staff, EventShare has features tailored to enhance your event experience.
 ## Features
-## User Features
-### 1 View All Events
-## Search and view through a comprehensive list of all upcoming events at Northeastern University.
-### 2 View on Maps
-## Visualize event locations on an interactive map for better navigation.
-### 3 Share Event
-## Easily share events with friends and colleagues through various social media platforms or email.
-### 4 Buy Tickets
-## Purchase tickets for events directly through the app for a seamless experience.
-### 5 Rate Events
-## Provide feedback on events by rating them, contributing to a dynamic and user-driven event community.
-### 6 Add to Favorites
-## Save your favorite events for quick access and personalized event recommendations.
+### User Features
+#### 1 View All Events
+Search and view through a comprehensive list of all upcoming events at Northeastern University.
+#### 2 View on Maps
+Visualize event locations on an interactive map for better navigation.
+#### 3 Share Event
+Easily share events with friends and colleagues through various social media platforms or email.
+#### 4 Buy Tickets
+Purchase tickets for events directly through the app for a seamless experience.
+#### 5 Rate Events
+Provide feedback on events by rating them, contributing to a dynamic and user-driven event community.
+#### 6 Add to Favorites
+Save your favorite events for quick access and personalized event recommendations.
 
 ## Admin Features
 ### CRUD Operations
-## Perform Create, Read, Update, and Delete operations for events to manage and curate the event calendar.
+#### Perform Create, Read, Update, and Delete operations for events to manage and curate the event calendar.
 
 ### Admin Screen
 Admin wil be able to manage the events (CRUD operation)
@@ -38,17 +38,17 @@ Admin wil be able to manage the events (CRUD operation)
 
 ## Technical Features
 ### 1) Internationalization (i18n)
-## Support for English and French languages to cater to a diverse user base.
+Support for English and French languages to cater to a diverse user base.
 ### 2) Redux Integration
-## Utilize Redux for state management, ensuring a scalable and maintainable application architecture.
+Utilize Redux for state management, ensuring a scalable and maintainable application architecture.
 ### 3) Progressive Web App (PWA)
-## Enjoy a responsive and reliable experience with PWA capabilities, allowing users to access the app even when offline.
+Enjoy a responsive and reliable experience with PWA capabilities, allowing users to access the app even when offline.
 ### 4) Responsive Design
-## A user-friendly interface that adapts seamlessly to various screen sizes and devices.
+A user-friendly interface that adapts seamlessly to various screen sizes and devices.
 ### 5) Secure Access
-## Accessible only by Northeastern University credentials, ensuring the safety and privacy of user data.
+Accessible only by Northeastern University credentials, ensuring the safety and privacy of user data.
 ### 6) React Router DOM and Page Not Found
-## EventShare uses react-router-dom for client-side routing. If a user navigates to a non-existent route, they will be redirected to a "Page Not Found" component. The routing configuration can be found in the src/App.js file.
+EventShare uses react-router-dom for client-side routing. If a user navigates to a non-existent route, they will be redirected to a "Page Not Found" component. The routing configuration can be found in the src/App.js file.
 
 # Getting Started
 
